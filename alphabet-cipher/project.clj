@@ -1,6 +1,6 @@
-(defproject alphabet-cipher "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+(defproject alphabet-cipher "0.1.0"
+  :description "Encode and decode messages using The Alphabet Cipher."
+  :url "https://github.com/yurrriq/wonderland-clojure-katas/tree/master/alphabet-cipher"
+  :license {:name "MIT"
+            :url  "http://yurrriq.mit-license.org"}
   :dependencies [[org.clojure/clojure "1.6.0"]])
