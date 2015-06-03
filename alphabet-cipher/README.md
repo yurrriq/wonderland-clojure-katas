@@ -1,4 +1,5 @@
 ﻿# alphabet-cipher
+My solution: http://yurrriq.codes/wonderland-clojure-katas/alphabet-cipher/
 
 Lewis Carroll published a cipher known as
 [The Alphabet Cipher](http://en.wikipedia.org/wiki/The_Alphabet_Cipher)
